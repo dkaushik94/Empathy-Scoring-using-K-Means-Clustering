@@ -67,4 +67,5 @@ Dataset split: *80:20*, 80% training, 20% testing data
 
 Check the IPython notebook in the code base for a story-setup explanantion on the process and results.
 
-### Concept and Development by: Debojit Kaushik May 2018.
+### Concept and Development by: 
+- Debojit Kaushik May 2018.
